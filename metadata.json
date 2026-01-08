@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Shot Planner",
+  "description": "A high-end shot planning tool for creators using Canon R50, Honor Magic 6 Pro, and DJI Mini 3, providing ready-to-use cinematic programs and shot lists.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
